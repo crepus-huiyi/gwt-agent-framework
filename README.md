@@ -134,7 +134,3 @@ gwt_agent_framework/
 ## 许可证
 
 本项目采用 MIT 许可证。
-=======
-# gwt-agent-framework
-设计并实现基于认知科学GWT（Global Workspace Theory）理论的Agent内核框架，解决长任务执行中常见的上下文爆炸、目标跑偏、自我认知不稳定三大核心痛点。通过五层架构设计（基础设施层→持久化层→潜意识层→意识层→执行层）实现Agent的认知闭环，支持复杂任务的稳定执行与目标对齐校验。
->>>>>>> f18b986c78ba5d4e46742ea51ac1dbc40217bee1
