@@ -3,6 +3,9 @@
 .env.local
 .env.*.local
 
+# 架构设计文档
+项目架构设计文档.md
+
 # 虚拟环境
 venv/
 env/
