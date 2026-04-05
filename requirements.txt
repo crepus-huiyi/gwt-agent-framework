@@ -1,0 +1,7 @@
+# 依赖清单 - 精确版本锁定，一键安装无冲突
+langgraph==0.2.45
+langchain==0.3.14
+langchain-openai==0.2.14
+python-dotenv==1.0.1
+requests==2.32.3
+gradio==5.8.0

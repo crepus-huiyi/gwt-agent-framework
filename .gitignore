@@ -1,0 +1,53 @@
+# 敏感文件
+.env
+.env.local
+.env.*.local
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 数据目录
+data/
+
+# 日志文件
+logs/
+*.log
+
+# IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 临时文件
+tmp/
+temp/
+
+# Python编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 测试报告
+coverage/
+.coverage
+
+# 构建产物
+dist/
+build/
+*.egg-info/
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Trae IDE配置
+.trae/
